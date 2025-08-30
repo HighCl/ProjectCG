@@ -1,0 +1,3 @@
+[submodule "ProjectCG/Assets/_MinbGamesLib"]
+	path = ProjectCG/Assets/_MinbGamesLib
+	url = https://github.com/minbgames/_MinbGamesLib.git

@@ -1,0 +1,8 @@
+---
+description:
+globs:
+alwaysApply: true
+---
+
+# 주석 규칙
+자동 생성 시 명령을 내리기 전까진 주석 작성X
